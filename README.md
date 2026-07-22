@@ -30,7 +30,7 @@ _____________________________________________________________________
 ### 📊 Formulário de Indicações de Colaboradores: https://github.com/alan-carmo/Fomulario-de-Indicacoes.git
 _____________________________________________________________________
 ### Aplicação Full-Stack desenvolvida para rastreamento em tempo real da frota de ônibus da cidade do Rio de Janeiro.
-Veja aqui o resultado final **[Acesse a aplicação ao vivo aqui](https://rio-bus-tracker.vercel.app/)**
+Veja aqui o resultado final: **[Acesse a aplicação ao vivo aqui](https://rio-bus-tracker.vercel.app/)**
 
 
 ## Considerações
