@@ -22,12 +22,16 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento de softwar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alancarmo/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alan-carmo) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thesilvaalan/)
 
 ## 📚 Projetos Desenvolvidos
+### 📊 Sistema B2B web: [https://github.com/alan-carmo/Meu-Portfolio.git](https://github.com/alan-carmo/compensahub)
+[![Assista ao vídeo de demonstração](https://img.shields.io/badge/Demo-Assistir%20no%20YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=RCGUV0HtbPk)  
+*Acesse o ambiente de demonstração ao vivo ou assista ao tour guiado de 2 minutos pelas funcionalidades da plataforma.*
+_____________________________________________________________________
 ### 🪪 Meu portfólio: https://github.com/alan-carmo/Meu-Portfolio.git
 Veja aqui o resultado final: **[Meu Portfólio](https://meu-portfolio-nu-one.vercel.app/)**
 _____________________________________________________________________
 ### 🔓 Desbloqueador de Planilhas: https://github.com/alan-carmo/Desbloqueador-de-Planilhas
 _____________________________________________________________________
-### 📊 Formulário de Indicações de Colaboradores: https://github.com/alan-carmo/Fomulario-de-Indicacoes.git
+### 📈 Formulário de Indicações de Colaboradores: https://github.com/alan-carmo/Fomulario-de-Indicacoes.git
 _____________________________________________________________________
 ### Aplicação Full-Stack desenvolvida para rastreamento em tempo real da frota de ônibus da cidade do Rio de Janeiro.
 Veja aqui o resultado final: **[Acesse a aplicação ao vivo aqui](https://rio-bus-tracker.vercel.app/)**
